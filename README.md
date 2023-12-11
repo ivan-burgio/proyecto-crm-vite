@@ -3,6 +3,7 @@
 Cuarto proyecto de practica del curso React - La Guia Completa.
 La estructura base del proyecto se hizo con Vite.
 Para los estilos se hace uso de TailwindCSS.
+Y para este proyecto se hace uso de React Router DOM.
 
 Deployment del proyecto: -
 
