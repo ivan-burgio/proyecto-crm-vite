@@ -1,4 +1,4 @@
-import { Outlet, Link, useLocation, NavLink } from "react-router-dom";
+import { Outlet, Link, useLocation } from "react-router-dom";
 
 export default function Layout() {
     const location = useLocation();
