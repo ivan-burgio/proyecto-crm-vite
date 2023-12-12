@@ -5,7 +5,7 @@ export default function Layout() {
 
     return (
         <div className="md:flex md:min-h-screen">
-            <aside className="md:w-1/4 bg-blue-900 px-5 py-10">
+            <aside className="md:w-1/4 bg-blue-900 px-5 py-10 text-2xl">
                 <h2 className="text-4x font-black text-center text-white">Administrador de Clientes</h2>
 
                 <nav className="mt-10">
