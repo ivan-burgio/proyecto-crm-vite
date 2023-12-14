@@ -1,8 +1,10 @@
 import { useNavigate, Form } from "react-router-dom";
 import Formulario from "../components/Formulario";
 
-export function action() {
-    console.log('a');
+export async function action({request}) {
+    const formData = await request.formData();
+    const datos = Object.fromEntries(formData);
+
 }
 
 export default function NuevoCliente() {
