@@ -10,7 +10,7 @@ export async function agregarCliente(datos) {
     try {
         const respuesta = await fetch(import.meta.env.VITE_API_URL, {
             method: 'POST',
-            body: JSON-stringify(datos),
+            body: JSON.stringify(datos),
             headers: {
                 'Content-Type': 'application/json'
             }
