@@ -1,0 +1,10 @@
+# Comandos para iniciar el proyecto en desarrollo
+
+## Paso 1: Instalar dependencias
+npm install
+
+## Paso 2: Iniciar el servidor local
+npm run dev
+
+# Comando para iniciar el servidor JSON
+json-server db.json
