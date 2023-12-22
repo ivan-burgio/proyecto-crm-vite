@@ -5,7 +5,7 @@ La estructura base del proyecto se hizo con Vite.
 Para los estilos se hace uso de TailwindCSS.
 Y para este proyecto se hace uso de React Router DOM.
 
-Deployment del proyecto: -
+Deployment del proyecto: https://crm-ivanburgio.netlify.app
 
 Currently, two official plugins are available:
 
